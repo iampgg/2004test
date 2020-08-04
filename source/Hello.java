@@ -3,5 +3,6 @@ public class Hello{
 	private String nn;
 	private String name;
 	private int nn;
+	private String test4;
 	
 }
