@@ -5,6 +5,7 @@ public class Hello{
 	private String aaa;
 	private int birth;
 	private String name;
-	private String remark;
+	private String remark; 
+	private String test4; 
 
 }
